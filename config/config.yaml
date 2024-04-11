@@ -23,3 +23,5 @@ model_trainer:
   data_path: artifacts/data_transformation/samsum_dataset
   model_ckpt: google-t5/t5-small
 
+# Previous Model: google/pegasus-cnn_dailymail
+
